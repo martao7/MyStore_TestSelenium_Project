@@ -1,0 +1,12 @@
+Feature: MyStore - New order
+
+  Scenario: Add a product to user order and pay for it
+    Given User is logged in to MyStore Website
+    When User goes choose a keyword "Hummingbird Printed Sweater"
+    And User chooses five of Hummingbird Printed Sweater in size M
+    And User adds this product to his order
+    And goes to checkout option
+    And gives his address
+    And chooses -pick up in store- way
+    And chooses obligation to pay with Pay by Check
+    Then Order successfully added and paid
