@@ -22,3 +22,4 @@ For describing individual features, I use Cucumber and Gherkin. The tests consis
 ❑ Programming language: Javascript    
 
 ❑ Testautomation: Selenium WebDriver, Cucumber, Gherkin, Page Object Patterns (POP)
+
