@@ -15,7 +15,7 @@ I create automated tests in JavaScript that I run in the Google Chrome browser.
 For describing individual features, I use Cucumber and Gherkin. The tests consist of page object patterns.
 
 
-❑ Browser: Google Chrome
-❑ Development environment: IntelliJ IDEA
-❑ Programming language: Javascript
+❑ Browser: Google Chrome                                                        
+❑ Development environment: IntelliJ IDEA                                                          
+❑ Programming language: Javascript                                                              
 ❑ Testautomation: Selenium WebDriver, Cucumber, Gherkin, Page Object Patterns (POP)
