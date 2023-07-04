@@ -16,8 +16,11 @@ For describing individual features, I use Cucumber and Gherkin. The tests consis
 
 
 ❑ Browser: Google Chrome
+
 ❑ Development environment: IntelliJ IDEA
+
 ❑ Programming language: Javascript
+
 ❑ Testautomation: Cucumber, Gherkin, Page Object Patterns (POP),
 Selenium WebDriver
 
